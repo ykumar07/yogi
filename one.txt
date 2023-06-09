@@ -1,2 +1,2 @@
-jndf
-wfwioefh
+ppublic class hello
+{{
