@@ -1,4 +1,9 @@
 myself yogesh.kumar .v
 Fourth sem 
 computer science and engineering
+isubjects:
+1 python 
+2 software engineering
+3 java
+5 operating system
 
