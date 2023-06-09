@@ -1,3 +1,3 @@
 ppublic class hello
 {
-kooo
+	public static void main (String [] args)
